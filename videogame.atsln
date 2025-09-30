@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "videogame", "videogame\videogame.cproj", "{4E42D773-3A17-46DA-9464-045FA2903829}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E42D773-3A17-46DA-9464-045FA2903829}.Debug|AVR.ActiveCfg = Debug|AVR
+		{4E42D773-3A17-46DA-9464-045FA2903829}.Debug|AVR.Build.0 = Debug|AVR
+		{4E42D773-3A17-46DA-9464-045FA2903829}.Release|AVR.ActiveCfg = Release|AVR
+		{4E42D773-3A17-46DA-9464-045FA2903829}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
